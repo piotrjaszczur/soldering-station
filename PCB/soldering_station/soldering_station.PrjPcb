@@ -222,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OPKOTHFA
 
 [Document12]
 DocumentPath=..\..\..\..\Dropbox\altium lib\soldering_station\soldering_station.SchLib
