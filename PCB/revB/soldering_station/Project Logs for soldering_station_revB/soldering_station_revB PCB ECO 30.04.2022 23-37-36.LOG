@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=GND Pin=MECH1-1
+Removed Pin From Net: NetName=GND Pin=MECH2-1
+Removed Pin From Net: NetName=GND Pin=MECH3-1
+Removed Pin From Net: NetName=GND Pin=MECH4-1
+Removed Pin From Net: NetName=GND Pin=P5-3
+Removed Pin From Net: NetName=TR Pin=P6-1
+Removed Pin From Net: NetName=REED Pin=P6-2
+Removed Member From Class: ClassName=top Member=MECH1
+Removed Member From Class: ClassName=top Member=MECH2
+Removed Member From Class: ClassName=top Member=MECH3
+Removed Member From Class: ClassName=top Member=MECH4
+Change Component Footprint: Designator=TP4 Old Footprint=TP_PAD New Footprint=TP_PAD_2
+Change Component Footprint: Designator=TP5 Old Footprint=TP_PAD New Footprint=TP_PAD_2
+Change Component Footprint: Designator=TP6 Old Footprint=TP_PAD New Footprint=TP_PAD_2
+Change component parameters: Designator = "TP4" ("TP4"); Footprint = "TP_PAD"; UniqueID = "\HEGFVPEI\VDVGQFSV" ("\HEGFVPEI\VDVGQFSV")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TP_PAD_2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH_Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 6"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 7"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 5"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 7"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP5" ("TP5"); Footprint = "TP_PAD"; UniqueID = "\HEGFVPEI\RAJHETYJ" ("\HEGFVPEI\RAJHETYJ")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TP_PAD_2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH_Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 6"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 7"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 5"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 7"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP6" ("TP6"); Footprint = "TP_PAD"; UniqueID = "\HEGFVPEI\FFUHZNDR" ("\HEGFVPEI\FFUHZNDR")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TP_PAD_2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH_Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 6"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 7"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 5"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 7"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M1(M3 Hole)
+Added Component: Designator=M2(M3 Hole)
+Added Component: Designator=M3(M3 Hole)
+Added Component: Designator=M4(M3 Hole)
+Added Component: Designator=P1(P_HEADER_1x3_2.54_ANGLE)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://datasheet.octopart.com/022288032-Molex-datasheet-8335722.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "22-28-8032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P_HEADER_1x3_2.54_ANGLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_Footprint"; Value = "1x3 2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 7"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "538-22-28-8032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "WM50015-03-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 7"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22-28-8032"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=REED Pin=P1-1
+Added Pin To Net: NetName=TR Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Member To Class: ClassName=U_PSU Member=Component J1 PSU
+Added Member To Class: ClassName=U_heater Member=Component J2 HEATER
+Added Member To Class: ClassName=top Member=Component M1 M3 Hole
+Added Member To Class: ClassName=top Member=Component M2 M3 Hole
+Added Member To Class: ClassName=top Member=Component M3 M3 Hole
+Added Member To Class: ClassName=top Member=Component M4 M3 Hole
+Added Member To Class: ClassName=U_heater Member=Component P1 MEASURE

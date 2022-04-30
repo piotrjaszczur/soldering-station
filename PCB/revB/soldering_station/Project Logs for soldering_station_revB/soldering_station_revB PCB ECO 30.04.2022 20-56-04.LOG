@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=SW1 Pin=C4-1
+Removed Pin From Net: NetName=SW2 Pin=C5-1
+Removed Pin From Net: NetName=SW4 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=ENC1-2
+Removed Pin From Net: NetName=GND Pin=ENC1-5
+Removed Pin From Net: NetName=GND Pin=ENC1-6
+Removed Pin From Net: NetName=GND Pin=ENC1-7
+Removed Pin From Net: NetName=3.3V Pin=P7-1
+Removed Pin From Net: NetName=PROFILE Pin=P7-2
+Removed Pin From Net: NetName=SW1 Pin=S1-1
+Removed Pin From Net: NetName=SW1 Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Pin From Net: NetName=SW2 Pin=S2-1
+Removed Pin From Net: NetName=SW2 Pin=S2-2
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=GND Pin=S2-4
+Removed Pin From Net: NetName=SW3 Pin=S3-1
+Removed Pin From Net: NetName=SW3 Pin=S3-2
+Removed Pin From Net: NetName=GND Pin=S3-3
+Removed Pin From Net: NetName=GND Pin=S3-4
+Removed Pin From Net: NetName=SW4 Pin=S4-1
+Removed Pin From Net: NetName=SW4 Pin=S4-2
+Removed Pin From Net: NetName=GND Pin=S4-3
+Removed Pin From Net: NetName=GND Pin=S4-4
+Removed Member From Class: ClassName=U_MCU Member=P7
+Added Component: Designator=J6(Solder Bridge Rounder)
+Added Pin To Net: NetName=SW2 Pin=C4-1
+Added Pin To Net: NetName=SW_ENC Pin=C5-1
+Added Pin To Net: NetName=SW1 Pin=C21-1
+Added Pin To Net: NetName=SW1 Pin=J4-3
+Added Pin To Net: NetName=SW2 Pin=J4-4
+Added Pin To Net: NetName=SW3 Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=PROFILE Pin=J6-2
+Added Pin To Net: NetName=SW3 Pin=R4-1
+Added Pin To Net: NetName=SW1 Pin=U1-18
+Added Pin To Net: NetName=SW2 Pin=U1-19
+Added Pin To Net: NetName=SW3 Pin=U1-20
+Added Pin To Net: NetName=SW4 Pin=U1-21
+Added Member To Class: ClassName=U_MCU Member=Component C4 Ceramic X7R
+Added Member To Class: ClassName=U_MCU Member=Component C5 Ceramic X7R
+Added Member To Class: ClassName=U_MCU Member=Component C21 Ceramic X7R
+Added Member To Class: ClassName=U_MCU Member=Component C22 Ceramic X7R
+Added Member To Class: ClassName=U_MCU Member=Component J6 PROFILE

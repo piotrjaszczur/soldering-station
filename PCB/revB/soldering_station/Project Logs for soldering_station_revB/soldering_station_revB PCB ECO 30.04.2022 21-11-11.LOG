@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=J6 Old Footprint=Solder Bridge Rounder New Footprint=Solder Bridge Rounder
+Change Physical Footprint: Designator=LS1 Old Footprint=LD-BZEN-1205 New Footprint=LD-BZEN-1205
+Change Physical Footprint: Designator=Q3 Old Footprint=NX7002AK.215 New Footprint=NX7002AK.215
+Change Physical Footprint: Designator=U3 Old Footprint=LM7805 New Footprint=LM7805
+Change Physical Footprint: Designator=U5 Old Footprint=OPA2342 New Footprint=OPA2342
